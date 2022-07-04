@@ -10,8 +10,8 @@ The data that the script uses can be found in the `data` folder.
 
 ## Usage:
 ```
-$ git clone [link]
-$ cd [folder]
+$ git clone git@github.com:MrFood77/Improving_Automatic_CSE300_Toon_Kling.git
+$ cd Improving_Automatic_CSE300_Toon_Kling
 ```
 Instructions using venv, or use whatever you prefer:
 ```
