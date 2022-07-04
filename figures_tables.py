@@ -12,7 +12,7 @@ import result
 def table1():
     print("\n")
     relevantColumns = ['BranchCoverage', 'criterion', 'project.id', 'TARGET_CLASS', 'round']
-    data = pd.read_csv('../cse-3000-22/results-300.csv')[relevantColumns].sample(5)
+    data = pd.read_csv('./data/results-300.csv')[relevantColumns].sample(5)
     print(data)
 
 
